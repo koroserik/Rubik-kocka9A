@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Rubik-kocka</title>
+    <!-- External CSS állomány csatolása -->
+    <!-- Megjegyzés lészítése CTRL-K CTR-C -->
+    <!-- Megjegyzés törlése CTRL-K CTRL-U -->
+    <!-- sor törlése CTRL-L -->
+    <link rel="stylesheet" href="rubik.css">
+</head>
+<body>
+    
+</body>
+</html>
